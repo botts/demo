@@ -1,0 +1,10 @@
+{
+    "tipo-cotacao": [
+      { "id": 1, "text": "Negociação Especial"},
+      { "id": 2, "text": "Negociação Padrão"}
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
